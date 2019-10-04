@@ -19,18 +19,23 @@ while rollNum <= numRolls:
 	if randomNum == 1:
 		print("Roll number: " + str(randomNum))
 		one = one + 1
+		
 	if randomNum == 2:
 		print("Roll number: " + str(randomNum))
 		two = two + 1
+		
 	if randomNum == 3:
 		print("Roll number: " + str(randomNum))
 		three = three + 1
+		
 	if randomNum == 4:
 		print("Roll number: " + str(randomNum))
 		four = four + 1
+		
 	if randomNum == 5:
 		print("Roll number: " + str(randomNum))
 		five = five + 1
+		
 	if randomNum == 6:
 		print("Roll number: " + str(randomNum))
 		six = six + 1
